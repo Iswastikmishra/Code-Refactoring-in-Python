@@ -20,7 +20,7 @@ Wait to install module.
 
 **Step 2 :-** Login/signup in sourcery by typing **"sourcery login"** in terminal.
 
-**Step 3 :-** Refactor your code my typing **"sourcery review --in-place Python_file_name.py"**.
+**Step 3 :-** Refactor your code by typing **"sourcery review --in-place Python_file_name.py"**.
 
 after executing this command Sourcery module scan your code and refactor it.
 
